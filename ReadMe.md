@@ -1,5 +1,15 @@
 # 💫 About Me:
-I am currently working with Python, Django, RESTFul APIs, ReactJS and React Native. I also work with Flutter / Dart on some side projects.<br>I am learning AI and ML for my current job's requirements.<br><br>I work as a full-stack developer at Rose Health.<br><br>I love to learn about scalability and writing more efficient algorithms. <br><br>Fun Fact about me, I am exceptionally good at R&D and I persevere even in the toughest of times.
+Hey there! 👋
+
+I'm a full-stack developer at Rose Health! 🌹 Here's the tea ☕️: I'm all about Python, Django, RESTFul APIs, ReactJS, and React Native. I also keep it real by dabbling in Flutter / Dart for some of my side projects.
+
+Oh, and get this: I'm leveling up by learning AI and ML for my current gig. 💪
+
+When I'm not crushing it at work, I'm all about learning more about scalability and making my algorithms even more efficient. 🚀
+
+BTW, I'm a boss when it comes to R&D and can handle the toughest challenges. 👊
+
+Cheers! 🎉
 
 
 ## 🌐 Socials:
